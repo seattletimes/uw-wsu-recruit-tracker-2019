@@ -1,0 +1,380 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+body {
+  color: #231f20;
+  font-family: "ff-meta-serif-web-pro", Georgia, serif;
+  font-size: 19px;
+  line-height: 1.42105263;
+  padding: 0;
+  margin: 0;
+}
+main {
+  display: block;
+}
+a {
+  -webkit-tap-highlight-color: black;
+  transition: color 0.15s ease-in-out;
+  color: #0777b3;
+  text-decoration: none;
+  outline: 0 !important;
+}
+a:hover {
+  color: #2b4d70;
+}
+img,
+video,
+embed,
+object,
+iframe {
+  max-width: 100%;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #231f20;
+  margin: 1.42105263 0 0.71052632 0;
+}
+h1 {
+  font-size: 70px;
+  line-height: 1.07142857;
+  letter-spacing: -0.5px;
+}
+@media (max-width: 768px) {
+  h1 {
+    font-size: 42px;
+    line-height: 1.0952381;
+    letter-spacing: -1px;
+  }
+}
+h2 {
+  font-size: 24px;
+  line-height: 1.42105263;
+}
+h3 {
+  font-size: 22px;
+  line-height: 1.04545455;
+}
+h4 {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.5;
+  margin: 0.71052632 0 0 0;
+}
+nav.main-nav {
+  background: white;
+  border-bottom: 1px solid #e0e0e0;
+  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.1);
+  position: relative;
+  line-height: 1;
+}
+nav.main-nav .wrapper {
+  max-width: 1020px;
+  margin: auto;
+  position: relative;
+  text-align: center;
+}
+@media (max-width: 768px) {
+  nav.main-nav .wrapper {
+    height: 40px;
+    padding: 10px;
+  }
+}
+nav.main-nav .logo {
+  display: block;
+  vertical-align: middle;
+}
+nav.main-nav .logo img {
+  width: 310px;
+  height: 70px;
+  max-height: 100%;
+}
+@media (max-width: 768px) {
+  nav.main-nav .logo img {
+    height: 24px;
+    width: auto;
+  }
+}
+nav.main-nav .share {
+  position: absolute;
+  top: 20px;
+  right: 10px;
+}
+@media (max-width: 768px) {
+  nav.main-nav .share {
+    top: 10px;
+    right: 4px;
+    width: auto !important;
+  }
+}
+nav.main-nav .share label {
+  background: white !important;
+}
+@media (max-width: 480px) {
+  nav.main-nav .share label span {
+    display: none;
+  }
+  nav.main-nav .share .left {
+    margin-left: -275px !important;
+  }
+}
+/*
+Shims for Flexbox - should work on Safari and IE10+
+*/
+.display-flex {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+body {
+  font-family: "ff-dagny-web-pro", Helvetica Neue, Helvetica, sans-serif;
+}
+nav.top-bar {
+  border-bottom: 1px solid #c0c0c0;
+  margin-bottom: 30px;
+}
+@media (max-width: 480px) {
+  nav.top-bar {
+    height: 40px;
+    background: white;
+    margin-bottom: 0px;
+    border-bottom: 0;
+  }
+}
+nav.top-bar .logo {
+  position: relative;
+  top: 30px;
+  text-align: center;
+  display: block;
+}
+@media (max-width: 480px) {
+  nav.top-bar .logo {
+    top: 0;
+  }
+}
+nav.top-bar .logo img {
+  box-sizing: content-box;
+  height: 30px;
+  background: white;
+  padding: 10px;
+}
+@media (max-width: 480px) {
+  nav.top-bar .logo img {
+    padding: 5px;
+  }
+}
+.outer {
+  max-width: 1500px;
+  margin: auto;
+  padding: 5px;
+}
+.embedded {
+  max-width: 630px;
+}
+.logo-header {
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px 0 10px 0;
+}
+@media (max-width: 480px) {
+  .welcome {
+    font-size: 16px;
+  }
+}
+.intro {
+  max-width: 750px;
+  margin: auto;
+  text-align: center;
+}
+.updated {
+  font-size: 14px;
+  color: #7e838b;
+}
+.flex-container {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+@media (max-width: 1370px) {
+  .flex-container {
+    width: 100%;
+    display: block;
+  }
+}
+.table-container {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  padding: 30px;
+}
+@media (max-width: 768px) {
+  .table-container {
+    padding: 0;
+  }
+}
+.table-container table {
+  width: 100%;
+}
+.search-container {
+  text-align: center;
+  padding-bottom: 10px;
+}
+.search-container .search {
+  font-size: 16px;
+}
+.search-container input {
+  margin-left: 4px;
+}
+table {
+  border-collapse: collapse;
+  max-width: inherit;
+}
+table th {
+  text-transform: uppercase;
+  border-bottom: 1px solid #e0e0e0;
+  padding: 6px 18px 6px 8px;
+  text-align: left;
+  font-size: 11px;
+}
+@media (max-width: 768px) {
+  table th {
+    font-size: 9px;
+    padding: 2px 3px;
+  }
+}
+table tr:nth-child(odd) td {
+  background: #f8f8f8;
+}
+table td {
+  padding: 6px 8px;
+  font-size: 11px;
+}
+@media (max-width: 768px) {
+  table td {
+    font-size: 10px;
+    padding: 2px 3px;
+  }
+}
+.clickable {
+  cursor: pointer;
+}
+.clickable:hover {
+  background: #e0e0e0;
+}
+.selected {
+  background: #e0e0e0;
+}
+.selected.up::after {
+  font-size: 9px;
+  content: "\25BC";
+  padding-left: 4px;
+  padding-top: 2px;
+  position: absolute;
+}
+@media (max-width: 768px) {
+  .selected.up::after {
+    font-size: 8px;
+  }
+}
+.selected.down::after {
+  font-size: 9px;
+  content: "\25B2";
+  padding-left: 4px;
+  padding-top: 2px;
+  position: absolute;
+}
+@media (max-width: 768px) {
+  .selected.down::after {
+    font-size: 8px;
+  }
+}
+.no-results {
+  display: none;
+  font-style: italic;
+}
+.no-results:first-child {
+  display: table-row;
+}
+@media (max-width: 480px) {
+  .signed,
+  .school {
+    display: none;
+  }
+}
+.divider {
+  border-top: 4px solid #7e838b;
+  padding-bottom: 8px;
+}
+.credits {
+  color: #7e838b;
+  font-size: 0.7em;
+  font-weight: 300;
+  letter-spacing: 1px;
+  text-align: center;
+  padding-bottom: 10px;
+}
+.credits .credit-name {
+  font-weight: bold;
+}
+@media (max-width: 480px) {
+  .credits {
+    padding: 15px;
+  }
+}
+.links {
+  font-family: "ff-dagny-web-pro", Helvetica Neue, Helvetica, sans-serif;
+  font-size: 15px;
+  text-align: center;
+  padding: 5px 0 10px 0;
+  font-weight: bold;
+}
+.copyright {
+  font-family: "ff-dagny-web-pro", Helvetica Neue, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 12px;
+  font-weight: 300;
+  color: #7e838b;
+  padding-bottom: 15px;
+}
+.ad {
+  text-align: center;
+}
+@media (max-width: 480px) {
+  .bottom-ad {
+    display: none;
+  }
+}
+footer {
+  background: #231f20;
+  opacity: 0.95;
+  padding: 6px 8px 4px 8px;
+  position: relative;
+  z-index: 99;
+  margin-top: 10px;
+}
+footer .logo {
+  float: left;
+  margin-right: 10px;
+}
+footer .logo img {
+  margin-top: 5px;
+  height: 20px;
+}
+footer::after {
+  clear: both;
+  content: " ";
+  display: block;
+}
+footer .share-bottom {
+  float: right;
+}
+footer .share-bottom label {
+  background: #231f20 !important;
+  color: #f8f8f8 !important;
+}

@@ -1,0 +1,252 @@
+<!doctype html>
+<html>
+  <head>
+    <title>UW Huskies, WSU Cougars 2019 recruiting tracker | The Seattle Times</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <!-- Favicon -->
+<link rel="shortcut icon" href="http://apps-production.s3.amazonaws.com/static/images/favicon.ico" type="image/x-icon">
+
+<!-- Social sharing meta -->
+<meta property="og:title" content="UW Huskies, WSU Cougars 2019 recruiting tracker | The Seattle Times">
+<meta property="og:site_name" content="The Seattle Times">
+<meta property="og:image" content=".assets/recruitingtrackers_tzr.jpg">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://projects.seattletimes.com/2019/sports/uw-wsu-recruit-tracker/">
+<meta property="og:description" content="Stay up-to-date with the incoming athletes who have committed to play football at UW and WSU.">
+
+<!-- BEGIN TWITTER SUMMARY CARD -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="UW Huskies, WSU Cougars 2019 recruiting tracker | The Seattle Times">
+<meta name="twitter:site" content="@seattletimes">
+<meta name="twitter:image" content=".assets/recruitingtrackers_tzr.jpg">
+<meta name="twitter:url" content="https://projects.seattletimes.com/2019/sports/uw-wsu-recruit-tracker/">
+<meta name="twitter:description" content="Stay up-to-date with the incoming athletes who have committed to play football at UW and WSU.">
+
+<!-- Chartbeat top -->
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+<!-- start ad set-up -->
+<script>
+window.googletag = {
+  cmd: [],
+  seatimes: {
+    tags: [],
+    unit: "/81279359/seattletimes.com"
+  }
+};
+</script>
+<!-- end ad set-up -->
+
+<!-- typekit fonts -->
+<script>
+(function(d) {
+var config = {
+  kitId: 'rvq5yyp',
+  scriptTimeout: 3000
+},
+h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='//use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+})(document);
+</script>
+  </head>
+  <body>
+
+    <div class="outer" ng-app="uw-wsu-recruits">
+
+      
+<div class="ad" id="">
+  <script>
+(function() {
+  var scripts = document.getElementsByTagName("script");
+  var here = scripts[scripts.length - 1];
+  var div = here.parentElement;
+  var id = div.id;
+  if (!id) {
+    //generate an ID if none exists
+    id = div.id = "dfp-ad-" + scripts.length;
+  }
+  var type = "banner";
+  var tag = window.googletag;
+
+  tag.cmd.push(function() {
+
+    var options = tag.seatimes.presets[type] || tag.seatimes.presets.square;
+    var ad = tag.defineSlot(tag.seatimes.unit, options.sizes, id);
+    if (options.sizeMapping) {
+      var map = tag.sizeMapping();
+      for (var width in options.sizeMapping) {
+        map.addSize([width * 1,1], options.sizeMapping[width]);
+      }
+      var mapping = map.build();
+      ad.defineSizeMapping(mapping);
+    }
+    ad.setTargeting("pos", options.position);
+    ad.addService(tag.pubads());
+    tag.enableServices();
+    tag.display(id);
+
+  });
+
+})();
+  </script>
+</div>
+
+      <nav class="top-bar">
+       <a class="logo" href="http://seattletimes.com">
+         <img src="./assets/seattletimes.svg">
+       </a>
+     </nav>
+
+     <div class="logo-header">
+
+       <img src="./assets/recruitingtracker_header2018.png">
+
+     </div>
+
+     <div class="intro">
+
+       <!-- <h1>2019 RECRUIT TRACKER</h1> -->
+
+       <p class="welcome">Stay up-to-date with the incoming athletes who have committed to play football at the University of Washington and Washington State University. Players in the Class of 2019 are first eligible to sign their letters of intent in this year's early signing period, which runs from Dec. 19-21. National Signing Day, which kicks off the traditional signing period, is Feb. 6, 2019.</p>
+
+       <p class="updated">Last updated: April 8, 2018</p>
+
+       <div class="credits">
+
+         Reporting by <span class="credit-name">Adam Jude</span> and <span class="credit-name">Stefanie Loh</span><br/>
+         Production by <span class="credit-name">Evan Webeck</span> Development by <span class="credit-name">Thomas Wilburn</span><br/>
+         Ratings courtesy of <span class="credit-name">247Sports Composite</span>
+
+       </div>
+
+
+
+    </div>
+
+      <div class="flex-container">
+        <div class="table-container" ng-controller="uwController">
+
+  <img src="./assets/uw-logo.jpg" style="float: left; width: 80px; padding-right: 26px;">
+
+  <h3>Washington Huskies 2019 recruits</h3>
+
+  <div class="search-container">
+    <span class="search">Search:</span>
+    <input type="text" ng-model="searchText">
+  </div>
+
+  <table class="tracker">
+    <thead>
+      <tr>
+        <th ng-repeat="header in headers" class="{{header.short}}" ng-click="sortTable(header)" ng-class="{clickable: header.short !== 'offers', down: selected == header && sortOrder == -1, up: selected == header && sortOrder == 1, selected: header == selected, school: header.short == 'uwschool', signed: header.short == 'uwsigned'}">{{header.title}}</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr ng-repeat="recruit in recruits | filter:searchText">
+        <td class="name">{{recruit.uwfirstname}} {{recruit.uwlastname}}</td>
+        <td class="position">{{recruit.uwposition}}</td>
+        <td class="stars">
+          <span ng-if="recruit.uwstars == 1">
+            &bigstar;
+          </span>
+          <span ng-if="recruit.uwstars == 2">
+            &bigstar;&bigstar;
+          </span>
+          <span ng-if="recruit.uwstars == 3">
+            &bigstar;&bigstar;&bigstar;
+          </span>
+          <span ng-if="recruit.uwstars == 4">
+            &bigstar;&bigstar;&bigstar;&bigstar;
+          </span>
+          <span ng-if="recruit.uwstars == 5">
+            &bigstar;&bigstar;&bigstar;&bigstar;&bigstar;
+          </span>
+        </td>
+        <td class="height">{{recruit.uwheight}}</td>
+        <td class="weight">{{recruit.uwweight}}</td>
+        <td class="school">{{recruit.uwschool}}</td>
+        <td class="hometown">{{recruit.uwhometown}}</td>
+        <td class="signed">
+          <span ng-if="recruit.uwsigned">&#10004;</span>
+        </td>
+      </tr>
+      <tr class="no-results">
+        <td colspan=100>No results found
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="divider"></div>
+</div>
+
+        <div class="table-container" ng-controller="wsuController">
+
+  <img src="./assets/wsu-logo.jpg" style="float: left; width: 80px; padding-right: 26px;">
+  <h3>Washington State Cougars 2019 recruits</h3>
+
+  <div class="search-container">
+    <span class="search">Search:</span>
+    <input type="text" ng-model="searchText">
+  </div>
+
+  <table class="tracker">
+    <thead>
+      <tr>
+        <th ng-repeat="header in headers" class="{{header.short}}" ng-click="sortTable(header)" ng-class="{clickable: header.short !== 'offers', down: selected == header && sortOrder == -1, up: selected == header && sortOrder == 1, selected: header == selected, school: header.short == 'wsuschool', signed: header.short == 'wsusigned'}">{{header.title}}</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr ng-repeat="recruit in recruits | filter:searchText">
+        <td class="name">{{recruit.wsufirstname}} {{recruit.wsulastname}}</td>
+        <td class="position">{{recruit.wsuposition}}</td>
+        <td class="stars">
+          <span ng-if="recruit.wsustars == 1">
+            &bigstar;
+          </span>
+          <span ng-if="recruit.wsustars == 2">
+            &bigstar;&bigstar;
+          </span>
+          <span ng-if="recruit.wsustars == 3">
+            &bigstar;&bigstar;&bigstar;
+          </span>
+          <span ng-if="recruit.wsustars == 4">
+            &bigstar;&bigstar;&bigstar;&bigstar;
+          </span>
+        </td>
+        <td class="height">{{recruit.wsuheight}}</td>
+        <td class="weight">{{recruit.wsuweight}}</td>
+        <td class="school">{{recruit.wsuschool}}</td>
+        <td class="hometown">{{recruit.wsuhometown}}</td>
+        <td class="signed">
+          <span ng-if="recruit.wsusigned">&#10004;</span>
+        </td>
+      </tr>
+      <tr class="no-results">
+        <td colspan=100>No results found
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="divider"></div>
+</div>
+
+      </div>
+
+    </div>
+
+    <footer>
+      <a class="logo" href="http://seattletimes.com">
+        <img src="./assets/st-logo.png">
+      </a>
+      <a class="share-bottom"></a>
+    </footer>
+
+    <script>
+      var cougarsData = [{"wsufirstname":"Billy","wsulastname":"Pospisil","wsuposition":"WR","wsustars":3,"wsuheight":"5-11","wsuweight":190,"wsuschool":"Pomona HS","wsuhometown":"Arvada, Colo."}];
+      var huskiesData = [{"uwfirstname":"Dylan","uwlastname":"Morris","uwposition":"QB","uwstars":4,"uwheight":"6-1","uwweight":200,"uwschool":"Graham-Kapowsin HS","uwhometown":"Graham, Wash."},{"uwfirstname":"Cameron","uwlastname":"Davis","uwposition":"RB","uwstars":3,"uwheight":"6-0","uwweight":185,"uwschool":"Upland HS","uwhometown":"Upland, Calf."},{"uwfirstname":"Nathaniel","uwlastname":"Kalepo","uwposition":"OL","uwstars":3,"uwheight":"6-6","uwweight":300,"uwschool":"Rainier Beach HS","uwhometown":"Seattle"},{"uwfirstname":"Corey","uwlastname":"Luciano","uwposition":"OL","uwstars":3,"uwheight":"6-5","uwweight":286,"uwschool":"Diablo Valley College","uwhometown":"Pleasant Hill, Calif."},{"uwfirstname":"Sama","uwlastname":"Paama","uwposition":"DT","uwstars":3,"uwheight":"6-4","uwweight":330,"uwschool":"Kaimuki HS","uwhometown":"Honolulu"},{"uwfirstname":"Kamren","uwlastname":"Fabiculanan","uwposition":"CB","uwstars":3,"uwheight":"6-1","uwweight":175,"uwschool":"Westlake HS","uwhometown":"Westlake Village, Calif."}];
+    </script>
+    <script src="app.js"></script>
+    
+  </body>
+</html>

@@ -1,0 +1,21 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "projects-staging.seattletimes.com",
+      "path": "almond-alpacas"
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": "2019/sports/uw-wsu-recruit-tracker/"
+    }
+  },
+  "title": "UW Huskies, WSU Cougars 2019 recruiting tracker | The Seattle Times",
+  "description": "Stay up-to-date with the incoming athletes who have committed to play football at UW and WSU.",
+  "url": "https://projects.seattletimes.com/2019/sports/uw-wsu-recruit-tracker/",
+  "slug": "uw-wsu-recruit-tracker-2019",
+  "tags": [],
+  "image": ".assets/recruitingtrackers_tzr.jpg",
+  "production": false,
+  "embedded": true,
+  "sheets": ["15gfK5x0hyX6YYMpqzKmOR06XwxcBDZ-7aG04qrxnfZw"]
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "uwfirstname": "Dylan",
+    "uwlastname": "Morris",
+    "uwposition": "QB",
+    "uwstars": 4,
+    "uwheight": "6-1",
+    "uwweight": 200,
+    "uwschool": "Graham-Kapowsin HS",
+    "uwhometown": "Graham, Wash."
+  },
+  {
+    "uwfirstname": "Cameron",
+    "uwlastname": "Davis",
+    "uwposition": "RB",
+    "uwstars": 3,
+    "uwheight": "6-0",
+    "uwweight": 185,
+    "uwschool": "Upland HS",
+    "uwhometown": "Upland, Calf."
+  },
+  {
+    "uwfirstname": "Nathaniel",
+    "uwlastname": "Kalepo",
+    "uwposition": "OL",
+    "uwstars": 3,
+    "uwheight": "6-6",
+    "uwweight": 300,
+    "uwschool": "Rainier Beach HS",
+    "uwhometown": "Seattle"
+  },
+  {
+    "uwfirstname": "Corey",
+    "uwlastname": "Luciano",
+    "uwposition": "OL",
+    "uwstars": 3,
+    "uwheight": "6-5",
+    "uwweight": 286,
+    "uwschool": "Diablo Valley College",
+    "uwhometown": "Pleasant Hill, Calif."
+  },
+  {
+    "uwfirstname": "Sama",
+    "uwlastname": "Paama",
+    "uwposition": "DT",
+    "uwstars": 3,
+    "uwheight": "6-4",
+    "uwweight": 330,
+    "uwschool": "Kaimuki HS",
+    "uwhometown": "Honolulu"
+  },
+  {
+    "uwfirstname": "Kamren",
+    "uwlastname": "Fabiculanan",
+    "uwposition": "CB",
+    "uwstars": 3,
+    "uwheight": "6-1",
+    "uwweight": 175,
+    "uwschool": "Westlake HS",
+    "uwhometown": "Westlake Village, Calif."
+  }
+]
