@@ -15,7 +15,7 @@
   "slug": "uw-wsu-recruit-tracker-2019",
   "tags": [],
   "image": ".assets/recruitingtrackers_tzr.jpg",
-  "production": false,
+  "production": true,
   "embedded": true,
   "sheets": ["15gfK5x0hyX6YYMpqzKmOR06XwxcBDZ-7aG04qrxnfZw"]
 }
