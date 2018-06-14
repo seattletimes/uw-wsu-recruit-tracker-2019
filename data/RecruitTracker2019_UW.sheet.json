@@ -43,7 +43,7 @@
     "uwfirstname": "Sama",
     "uwlastname": "Paama",
     "uwposition": "DT",
-    "uwstars": 3,
+    "uwstars": 4,
     "uwheight": "6-4",
     "uwweight": 330,
     "uwschool": "Kaimuki HS",
@@ -58,5 +58,25 @@
     "uwweight": 175,
     "uwschool": "Westlake HS",
     "uwhometown": "Westlake Village, Calif."
+  },
+  {
+    "uwfirstname": "Alphonzo",
+    "uwlastname": "Tuputala",
+    "uwposition": "LB",
+    "uwstars": 3,
+    "uwheight": "6-3",
+    "uwweight": 240,
+    "uwschool": "Federal Way HS",
+    "uwhometown": "Federal Way, Wash."
+  },
+  {
+    "uwfirstname": "Miki",
+    "uwlastname": "Ah You",
+    "uwposition": "LB",
+    "uwstars": 3,
+    "uwheight": "6-1",
+    "uwweight": 220,
+    "uwschool": "Kahuku HS",
+    "uwhometown": "Kahuku, Hawaii"
   }
 ]
