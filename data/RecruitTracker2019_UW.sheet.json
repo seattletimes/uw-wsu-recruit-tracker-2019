@@ -98,5 +98,25 @@
     "uwweight": 215,
     "uwschool": "Carlsbad HS",
     "uwhometown": "Carlsbad, Calif."
+  },
+  {
+    "uwfirstname": "Taj",
+    "uwlastname": "Davis",
+    "uwposition": "WR",
+    "uwstars": 3,
+    "uwheight": "6-2",
+    "uwweight": 187,
+    "uwschool": "Upland HS",
+    "uwhometown": "Upland, Calf."
+  },
+  {
+    "uwfirstname": "Noa",
+    "uwlastname": "Ngalu",
+    "uwposition": "DT",
+    "uwstars": 3,
+    "uwheight": "6-2",
+    "uwweight": 280,
+    "uwschool": "Menlo-Atherton HS",
+    "uwhometown": "Menlo Park, Calif."
   }
 ]
