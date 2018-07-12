@@ -78,5 +78,25 @@
     "uwweight": 220,
     "uwschool": "Kahuku HS",
     "uwhometown": "Kahuku, Hawaii"
+  },
+  {
+    "uwfirstname": "Timothy",
+    "uwlastname": "Horn",
+    "uwposition": "PK",
+    "uwstars": 3,
+    "uwheight": "6-2",
+    "uwweight": 205,
+    "uwschool": "Punahou HS",
+    "uwhometown": "Honolulu"
+  },
+  {
+    "uwfirstname": "Asa",
+    "uwlastname": "Turner",
+    "uwposition": "ATH",
+    "uwstars": 4,
+    "uwheight": "6-4",
+    "uwweight": 215,
+    "uwschool": "Carlsbad HS",
+    "uwhometown": "Carlsbad, Calif."
   }
 ]
