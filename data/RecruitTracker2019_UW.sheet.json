@@ -118,5 +118,15 @@
     "uwweight": 280,
     "uwschool": "Menlo-Atherton HS",
     "uwhometown": "Menlo Park, Calif."
+  },
+  {
+    "uwfirstname": "Cameron",
+    "uwlastname": "Williams",
+    "uwposition": "DB",
+    "uwstars": 4,
+    "uwheight": "6-0",
+    "uwweight": 190,
+    "uwschool": "Bakersfild HS",
+    "uwhometown": "Bakersfield, Calif."
   }
 ]
