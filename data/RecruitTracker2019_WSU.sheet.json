@@ -28,5 +28,85 @@
     "wsuweight": 215,
     "wsuschool": "Casteel HS",
     "wsuhometown": "Queen Creek, Ariz."
+  },
+  {
+    "wsufirstname": "Travion",
+    "wsulastname": "Brown",
+    "wsuposition": "LB",
+    "wsustars": 3,
+    "wsuheight": "6-3",
+    "wsuweight": 215,
+    "wsuschool": "Linfield Christian School",
+    "wsuhometown": "Temecula, Calif."
+  },
+  {
+    "wsufirstname": "Armauni",
+    "wsulastname": "Archie",
+    "wsuposition": "CB",
+    "wsustars": 3,
+    "wsuheight": "6-1",
+    "wsuweight": 175,
+    "wsuschool": "El Cerrito HS",
+    "wsuhometown": "El Cerrito, Calif."
+  },
+  {
+    "wsufirstname": "Jouvensly",
+    "wsulastname": "Bazile",
+    "wsuposition": "RB",
+    "wsustars": 3,
+    "wsuheight": "5-10",
+    "wsuweight": 180,
+    "wsuschool": "Golden Gate HS",
+    "wsuhometown": "Naples, Fla."
+  },
+  {
+    "wsufirstname": "Dontae",
+    "wsulastname": "Powell",
+    "wsuposition": "OL",
+    "wsustars": 3,
+    "wsuheight": "6-5",
+    "wsuweight": 314,
+    "wsuschool": "Arizona Western College",
+    "wsuhometown": "Yuma, Ariz."
+  },
+  {
+    "wsufirstname": "Peni",
+    "wsulastname": "Naulu",
+    "wsuposition": "LB",
+    "wsustars": 3,
+    "wsuheight": "6-1",
+    "wsuweight": 210,
+    "wsuschool": "Kapolei HS",
+    "wsuhometown": "Kapolei, Hawaii"
+  },
+  {
+    "wsufirstname": "Konner",
+    "wsulastname": "Gomness",
+    "wsuposition": "OL",
+    "wsustars": 3,
+    "wsuheight": "6-4",
+    "wsuweight": 270,
+    "wsuschool": "San Joaquin Memorial HS",
+    "wsuhometown": "Fresno, Calif."
+  },
+  {
+    "wsufirstname": "Donovan",
+    "wsulastname": "Ollie",
+    "wsuposition": "WR",
+    "wsustars": 3,
+    "wsuheight": "6-3",
+    "wsuweight": 205,
+    "wsuschool": "Wylie HS",
+    "wsuhometown": "Wylie, Texas"
+  },
+  {
+    "wsufirstname": "Patrick",
+    "wsulastname": "Utschinski",
+    "wsuposition": "OL",
+    "wsustars": 3,
+    "wsuheight": "6-7",
+    "wsuweight": 280,
+    "wsuschool": "Walla Walla HS",
+    "wsuhometown": "Walla Walla, Wash."
   }
 ]

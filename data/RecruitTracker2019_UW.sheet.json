@@ -126,7 +126,47 @@
     "uwstars": 4,
     "uwheight": "6-0",
     "uwweight": 190,
-    "uwschool": "Bakersfild HS",
+    "uwschool": "Bakersfield HS",
     "uwhometown": "Bakersfield, Calif."
+  },
+  {
+    "uwfirstname": "Jacob",
+    "uwlastname": "Bandes",
+    "uwposition": "DL",
+    "uwstars": 4,
+    "uwheight": "6-3",
+    "uwweight": 306,
+    "uwschool": "Pittsburg HS",
+    "uwhometown": "Antioch, Calif."
+  },
+  {
+    "uwfirstname": "Troy",
+    "uwlastname": "Fautanu",
+    "uwposition": "OL",
+    "uwstars": 3,
+    "uwheight": "6-4",
+    "uwweight": 286,
+    "uwschool": "Liberty HS",
+    "uwhometown": "Henderson, Nev."
+  },
+  {
+    "uwfirstname": "Julius",
+    "uwlastname": "Buelow",
+    "uwposition": "OL",
+    "uwstars": 4,
+    "uwheight": "6-8",
+    "uwweight": 315,
+    "uwschool": "Kapolei HS",
+    "uwhometown": "Kapolei, Hawaii"
+  },
+  {
+    "uwfirstname": "Bralen",
+    "uwlastname": "Trice",
+    "uwposition": "DL",
+    "uwstars": 3,
+    "uwheight": "6-4",
+    "uwweight": 225,
+    "uwschool": "Sandra Day O'Connor HS",
+    "uwhometown": "Glendale, Ariz."
   }
 ]
