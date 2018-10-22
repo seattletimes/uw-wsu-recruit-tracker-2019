@@ -168,5 +168,15 @@
     "uwweight": 225,
     "uwschool": "Sandra Day O'Connor HS",
     "uwhometown": "Glendale, Ariz."
+  },
+  {
+    "uwfirstname": "Joshua",
+    "uwlastname": "Calvert",
+    "uwposition": "LB",
+    "uwstars": 4,
+    "uwheight": "6-3",
+    "uwweight": 220,
+    "uwschool": "Oaks Christian HS",
+    "uwhometown": "Westlake Village, Calif."
   }
 ]
