@@ -13,7 +13,7 @@
     "uwfirstname": "Cameron",
     "uwlastname": "Davis",
     "uwposition": "RB",
-    "uwstars": 3,
+    "uwstars": 4,
     "uwheight": "6-0",
     "uwweight": 185,
     "uwschool": "Upland HS",
@@ -23,9 +23,9 @@
     "uwfirstname": "Nathaniel",
     "uwlastname": "Kalepo",
     "uwposition": "OL",
-    "uwstars": 3,
+    "uwstars": 4,
     "uwheight": "6-6",
-    "uwweight": 300,
+    "uwweight": 329,
     "uwschool": "Rainier Beach HS",
     "uwhometown": "Seattle"
   },
@@ -44,8 +44,8 @@
     "uwlastname": "Paama",
     "uwposition": "DT",
     "uwstars": 4,
-    "uwheight": "6-4",
-    "uwweight": 330,
+    "uwheight": "6-5",
+    "uwweight": 325,
     "uwschool": "Kaimuki HS",
     "uwhometown": "Honolulu"
   },
@@ -53,7 +53,7 @@
     "uwfirstname": "Kamren",
     "uwlastname": "Fabiculanan",
     "uwposition": "CB",
-    "uwstars": 3,
+    "uwstars": 4,
     "uwheight": "6-1",
     "uwweight": 175,
     "uwschool": "Westlake HS",
@@ -155,7 +155,7 @@
     "uwposition": "OL",
     "uwstars": 4,
     "uwheight": "6-8",
-    "uwweight": 315,
+    "uwweight": 320,
     "uwschool": "Kapolei HS",
     "uwhometown": "Kapolei, Hawaii"
   },
@@ -188,5 +188,15 @@
     "uwweight": 299,
     "uwschool": "St. Louis HS",
     "uwhometown": "Honolulu"
+  },
+  {
+    "uwfirstname": "Trent",
+    "uwlastname": "McDuffie",
+    "uwposition": "CB",
+    "uwstars": 4,
+    "uwheight": "5-11",
+    "uwweight": 175,
+    "uwschool": "St. John Bosco HS",
+    "uwhometown": "Bellflower, Calif."
   }
 ]
