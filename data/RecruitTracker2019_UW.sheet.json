@@ -4,10 +4,11 @@
     "uwlastname": "Morris",
     "uwposition": "QB",
     "uwstars": 4,
-    "uwheight": "6-1",
-    "uwweight": 200,
+    "uwheight": "6-0",
+    "uwweight": 188,
     "uwschool": "Graham-Kapowsin HS",
-    "uwhometown": "Graham, Wash."
+    "uwhometown": "Puyallup",
+    "uwsigned": "x"
   },
   {
     "uwfirstname": "Cameron",
@@ -15,9 +16,10 @@
     "uwposition": "RB",
     "uwstars": 4,
     "uwheight": "6-0",
-    "uwweight": 185,
+    "uwweight": 187,
     "uwschool": "Upland HS",
-    "uwhometown": "Upland, Calf."
+    "uwhometown": "Rancho Cucamonga, Calif.",
+    "uwsigned": "x"
   },
   {
     "uwfirstname": "Nathaniel",
@@ -25,59 +27,65 @@
     "uwposition": "OL",
     "uwstars": 4,
     "uwheight": "6-6",
-    "uwweight": 329,
+    "uwweight": 341,
     "uwschool": "Rainier Beach HS",
-    "uwhometown": "Seattle"
+    "uwhometown": "Seattle",
+    "uwsigned": "x"
   },
   {
     "uwfirstname": "Corey",
     "uwlastname": "Luciano",
     "uwposition": "OL",
     "uwstars": 3,
-    "uwheight": "6-5",
-    "uwweight": 286,
+    "uwheight": "6-3",
+    "uwweight": 270,
     "uwschool": "Diablo Valley College",
-    "uwhometown": "Pleasant Hill, Calif."
+    "uwhometown": "Danville, Calif.",
+    "uwsigned": "x"
   },
   {
     "uwfirstname": "Sama",
-    "uwlastname": "Paama",
+    "uwlastname": "Pa'ama",
     "uwposition": "DT",
     "uwstars": 4,
-    "uwheight": "6-5",
-    "uwweight": 325,
+    "uwheight": "6-4",
+    "uwweight": 336,
     "uwschool": "Kaimuki HS",
-    "uwhometown": "Honolulu"
+    "uwhometown": "Honolulu",
+    "uwsigned": "x"
   },
   {
     "uwfirstname": "Kamren",
     "uwlastname": "Fabiculanan",
     "uwposition": "CB",
     "uwstars": 4,
-    "uwheight": "6-1",
-    "uwweight": 175,
+    "uwheight": "6-2",
+    "uwweight": 183,
     "uwschool": "Westlake HS",
-    "uwhometown": "Westlake Village, Calif."
+    "uwhometown": "Camarillo, Calif.",
+    "uwsigned": "x"
   },
   {
     "uwfirstname": "Alphonzo",
     "uwlastname": "Tuputala",
     "uwposition": "LB",
     "uwstars": 3,
-    "uwheight": "6-3",
-    "uwweight": 240,
+    "uwheight": "6-2",
+    "uwweight": 249,
     "uwschool": "Federal Way HS",
-    "uwhometown": "Federal Way, Wash."
+    "uwhometown": "Federal Way, Wash.",
+    "uwsigned": "x"
   },
   {
     "uwfirstname": "Miki",
     "uwlastname": "Ah You",
     "uwposition": "LB",
     "uwstars": 3,
-    "uwheight": "6-1",
-    "uwweight": 220,
+    "uwheight": "6-0",
+    "uwweight": 207,
     "uwschool": "Kahuku HS",
-    "uwhometown": "Kahuku, Hawaii"
+    "uwhometown": "Kahuku, Hawaii",
+    "uwsigned": "x"
   },
   {
     "uwfirstname": "Timothy",
@@ -85,14 +93,15 @@
     "uwposition": "PK",
     "uwstars": 3,
     "uwheight": "6-2",
-    "uwweight": 205,
+    "uwweight": 206,
     "uwschool": "Punahou HS",
-    "uwhometown": "Honolulu"
+    "uwhometown": "Honolulu",
+    "uwsigned": "x"
   },
   {
     "uwfirstname": "Asa",
     "uwlastname": "Turner",
-    "uwposition": "ATH",
+    "uwposition": "S",
     "uwstars": 4,
     "uwheight": "6-4",
     "uwweight": 215,
@@ -104,40 +113,44 @@
     "uwlastname": "Davis",
     "uwposition": "WR",
     "uwstars": 3,
-    "uwheight": "6-2",
-    "uwweight": 187,
+    "uwheight": "6-1",
+    "uwweight": 192,
     "uwschool": "Upland HS",
-    "uwhometown": "Upland, Calf."
+    "uwhometown": "Chino, Calif.",
+    "uwsigned": "x"
   },
   {
     "uwfirstname": "Noa",
     "uwlastname": "Ngalu",
     "uwposition": "DT",
     "uwstars": 3,
-    "uwheight": "6-2",
+    "uwheight": "6-1",
     "uwweight": 280,
     "uwschool": "Menlo-Atherton HS",
-    "uwhometown": "Menlo Park, Calif."
+    "uwhometown": "Menlo Park, Calif.",
+    "uwsigned": "x"
   },
   {
     "uwfirstname": "Cameron",
     "uwlastname": "Williams",
     "uwposition": "DB",
     "uwstars": 4,
-    "uwheight": "6-0",
-    "uwweight": 190,
+    "uwheight": "5-11",
+    "uwweight": 183,
     "uwschool": "Bakersfield HS",
-    "uwhometown": "Bakersfield, Calif."
+    "uwhometown": "Bakersfield, Calif.",
+    "uwsigned": "x"
   },
   {
     "uwfirstname": "Jacob",
     "uwlastname": "Bandes",
     "uwposition": "DL",
     "uwstars": 4,
-    "uwheight": "6-3",
-    "uwweight": 306,
+    "uwheight": "6-2",
+    "uwweight": 315,
     "uwschool": "Pittsburg HS",
-    "uwhometown": "Antioch, Calif."
+    "uwhometown": "Antioch, Calif.",
+    "uwsigned": "x"
   },
   {
     "uwfirstname": "Troy",
@@ -145,9 +158,10 @@
     "uwposition": "OL",
     "uwstars": 3,
     "uwheight": "6-4",
-    "uwweight": 286,
+    "uwweight": 289,
     "uwschool": "Liberty HS",
-    "uwhometown": "Henderson, Nev."
+    "uwhometown": "Henderson, Nev.",
+    "uwsigned": "x"
   },
   {
     "uwfirstname": "Julius",
@@ -157,37 +171,41 @@
     "uwheight": "6-8",
     "uwweight": 320,
     "uwschool": "Kapolei HS",
-    "uwhometown": "Kapolei, Hawaii"
+    "uwhometown": "Kapolei, Hawaii",
+    "uwsigned": "x"
   },
   {
     "uwfirstname": "Bralen",
     "uwlastname": "Trice",
-    "uwposition": "DL",
+    "uwposition": "OLB",
     "uwstars": 3,
-    "uwheight": "6-4",
-    "uwweight": 225,
+    "uwheight": "6-3",
+    "uwweight": 220,
     "uwschool": "Sandra Day O'Connor HS",
-    "uwhometown": "Glendale, Ariz."
+    "uwhometown": "Phoenix",
+    "uwsigned": "x"
   },
   {
     "uwfirstname": "Joshua",
     "uwlastname": "Calvert",
     "uwposition": "LB",
     "uwstars": 4,
-    "uwheight": "6-3",
-    "uwweight": 220,
+    "uwheight": "6-1",
+    "uwweight": 227,
     "uwschool": "Oaks Christian HS",
-    "uwhometown": "Westlake Village, Calif."
+    "uwhometown": "Westlake Village, Calif.",
+    "uwsigned": "x"
   },
   {
     "uwfirstname": "Faatui",
     "uwlastname": "Tuitele",
     "uwposition": "DT",
     "uwstars": 4,
-    "uwheight": "6-4",
-    "uwweight": 299,
+    "uwheight": "6-3",
+    "uwweight": 304,
     "uwschool": "St. Louis HS",
-    "uwhometown": "Honolulu"
+    "uwhometown": "Honolulu",
+    "uwsigned": "x"
   },
   {
     "uwfirstname": "Trent",
@@ -195,8 +213,20 @@
     "uwposition": "CB",
     "uwstars": 4,
     "uwheight": "5-11",
-    "uwweight": 175,
+    "uwweight": 187,
     "uwschool": "St. John Bosco HS",
-    "uwhometown": "Bellflower, Calif."
+    "uwhometown": "Westminster, Calif.",
+    "uwsigned": "x"
+  },
+  {
+    "uwfirstname": "Laiatu",
+    "uwlastname": "Latu",
+    "uwposition": "OLB",
+    "uwstars": 4,
+    "uwheight": "6-4",
+    "uwweight": 272,
+    "uwschool": "Jesuit HS",
+    "uwhometown": "Sacramento",
+    "uwsigned": "x"
   }
 ]

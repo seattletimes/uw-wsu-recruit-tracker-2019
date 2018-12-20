@@ -7,17 +7,19 @@
     "wsuheight": "5-11",
     "wsuweight": 190,
     "wsuschool": "Pomona HS",
-    "wsuhometown": "Arvada, Colo."
+    "wsuhometown": "Arvada, Colo.",
+    "wsusigned": "x"
   },
   {
     "wsufirstname": "Simon",
     "wsulastname": "Samarzich",
     "wsuposition": "LS",
     "wsustars": 3,
-    "wsuheight": "6-0",
+    "wsuheight": "                  6-0",
     "wsuweight": 200,
     "wsuschool": "Upland HS",
-    "wsuhometown": "Upland, Calif."
+    "wsuhometown": "Upland, Calif.",
+    "wsusigned": "x"
   },
   {
     "wsufirstname": "Gunner",
@@ -27,7 +29,8 @@
     "wsuheight": "6-4",
     "wsuweight": 215,
     "wsuschool": "Casteel HS",
-    "wsuhometown": "Queen Creek, Ariz."
+    "wsuhometown": "Queen Creek, Ariz.",
+    "wsusigned": "x"
   },
   {
     "wsufirstname": "Travion",
@@ -37,7 +40,8 @@
     "wsuheight": "6-3",
     "wsuweight": 215,
     "wsuschool": "Linfield Christian School",
-    "wsuhometown": "Temecula, Calif."
+    "wsuhometown": "Temecula, Calif.",
+    "wsusigned": "x"
   },
   {
     "wsufirstname": "Armauni",
@@ -47,7 +51,8 @@
     "wsuheight": "6-1",
     "wsuweight": 175,
     "wsuschool": "El Cerrito HS",
-    "wsuhometown": "El Cerrito, Calif."
+    "wsuhometown": "El Cerrito, Calif.",
+    "wsusigned": "x"
   },
   {
     "wsufirstname": "Jouvensly",
@@ -57,7 +62,8 @@
     "wsuheight": "5-10",
     "wsuweight": 180,
     "wsuschool": "Golden Gate HS",
-    "wsuhometown": "Naples, Fla."
+    "wsuhometown": "Naples, Fla.",
+    "wsusigned": "x"
   },
   {
     "wsufirstname": "Dontae",
@@ -77,7 +83,8 @@
     "wsuheight": "6-1",
     "wsuweight": 210,
     "wsuschool": "Kapolei HS",
-    "wsuhometown": "Kapolei, Hawaii"
+    "wsuhometown": "Kapolei, Hawaii",
+    "wsusigned": "x"
   },
   {
     "wsufirstname": "Konner",
@@ -87,7 +94,8 @@
     "wsuheight": "6-4",
     "wsuweight": 270,
     "wsuschool": "San Joaquin Memorial HS",
-    "wsuhometown": "Fresno, Calif."
+    "wsuhometown": "Fresno, Calif.",
+    "wsusigned": "x"
   },
   {
     "wsufirstname": "Donovan",
@@ -97,7 +105,8 @@
     "wsuheight": "6-3",
     "wsuweight": 205,
     "wsuschool": "Wylie HS",
-    "wsuhometown": "Wylie, Texas"
+    "wsuhometown": "Wylie, Texas",
+    "wsusigned": "x"
   },
   {
     "wsufirstname": "Patrick",
@@ -107,7 +116,8 @@
     "wsuheight": "6-7",
     "wsuweight": 280,
     "wsuschool": "Walla Walla HS",
-    "wsuhometown": "Walla Walla, Wash."
+    "wsuhometown": "Walla Walla, Wash.",
+    "wsusigned": "x"
   },
   {
     "wsufirstname": "Jamir",
@@ -117,7 +127,8 @@
     "wsuheight": "6-1",
     "wsuweight": 215,
     "wsuschool": "Washington HS",
-    "wsuhometown": "Massillon, Ohio"
+    "wsuhometown": "Massillon, Ohio",
+    "wsusigned": "x"
   },
   {
     "wsufirstname": "Bryce",
@@ -127,7 +138,8 @@
     "wsuheight": "6-2",
     "wsuweight": 190,
     "wsuschool": "Arizona Western College",
-    "wsuhometown": "Yuma, Ariz."
+    "wsuhometown": "Yuma, Ariz.",
+    "wsusigned": "x"
   },
   {
     "wsufirstname": "Don",
@@ -147,7 +159,8 @@
     "wsuheight": "6-2",
     "wsuweight": 260,
     "wsuschool": "Pittsburg Senior HS",
-    "wsuhometown": "Pittsburg, Calif."
+    "wsuhometown": "Pittsburg, Calif.",
+    "wsusigned": " "
   },
   {
     "wsufirstname": "Tyler",
@@ -157,7 +170,8 @@
     "wsuheight": "6-5",
     "wsuweight": 230,
     "wsuschool": "Bishop O'Dowd HS",
-    "wsuhometown": "Oakland, Calif."
+    "wsuhometown": "Oakland, Calif.",
+    "wsusigned": "x"
   },
   {
     "wsufirstname": "Hunter",
@@ -177,7 +191,8 @@
     "wsuheight": "6-3",
     "wsuweight": 220,
     "wsuschool": "Central HS",
-    "wsuhometown": "Phoenix"
+    "wsuhometown": "Phoenix",
+    "wsusigned": "x"
   },
   {
     "wsufirstname": "Daniel",
@@ -187,7 +202,8 @@
     "wsuheight": "5-10",
     "wsuweight": 180,
     "wsuschool": "Iowa Western CC",
-    "wsuhometown": "Council Bluffs, Iowa"
+    "wsuhometown": "Council Bluffs, Iowa",
+    "wsusigned": "x"
   },
   {
     "wsufirstname": "Derrick",
@@ -197,7 +213,8 @@
     "wsuheight": "6-3",
     "wsuweight": 190,
     "wsuschool": "City College of San Francisco",
-    "wsuhometown": "San Francisco"
+    "wsuhometown": "San Francisco",
+    "wsusigned": "x"
   },
   {
     "wsufirstname": "Ma'ake",
@@ -207,6 +224,7 @@
     "wsuheight": "6-5",
     "wsuweight": 250,
     "wsuschool": "Glacier Peak HS",
-    "wsuhometown": "Snohomish, Wash."
+    "wsuhometown": "Snohomish, Wash.",
+    "wsusigned": "x"
   }
 ]
